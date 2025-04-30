@@ -1,0 +1,6 @@
+id,title,description,availability,condition,price,link,image_link,brand
+retailer_id_1,iPhone 12,Latest Apple iPhone model with 64GB storage,in stock,new,699.00 USD,https://example.com/products/iphone12,https://example.com/images/iphone12.jpg,Apple
+retailer_id_2,Galaxy S21,High-performance Android phone from Samsung,in stock,new,649.00 USD,https://example.com/products/galaxy-s21,https://example.com/images/galaxy-s21.jpg,Samsung
+retailer_id_3,MacBook Air,Apple laptop with M1 chip and 256GB SSD,in stock,new,999.00 USD,https://example.com/products/macbook-air,https://example.com/images/macbook-air.jpg,Apple
+retailer_id_4,Pixel 6,Google Pixel with Android 12 and great camera,in stock,new,599.00 USD,https://example.com/products/pixel-6,https://example.com/images/pixel-6.jpg,Google
+retailer_id_5,AirPods Pro,Wireless earbuds with noise cancellation,in stock,new,249.00 USD,https://example.com/products/airpods-pro,https://example.com/images/airpods-pro.jpg,Apple
